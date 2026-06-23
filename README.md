@@ -122,6 +122,14 @@ The system provides an intuitive and cable-free control mechanism by converting 
 
 ---
 
+## 🎥 Demo Video
+
+Watch the demo video here:
+
+[⏯️Click Here](https://drive.google.com/file/d/1ON1rfQM93CCP-XdOsEhf0PfyDz6VQX9T/view?usp=drive_link)
+
+---
+
 ## 🔌 Receiver Circuit Diagram
 
 ![Receiver Circuit](circuits/Rx_circuit.png)
